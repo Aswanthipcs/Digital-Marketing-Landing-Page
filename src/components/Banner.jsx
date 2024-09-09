@@ -4,8 +4,6 @@ import { Modal } from "react-responsive-modal";
 import GreenSuccess from "../assets/GreenSuccess.svg";
 import Success from "../assets/Success.svg";
 import BannerBg from "../assets/BannerBg.svg";
-import google from "../assets/Google.svg";
-import rating from "../assets/review.gif";
 import Animated from "../assets/Animated.json";
 import Button from "./Button";
 import axios from "axios";
